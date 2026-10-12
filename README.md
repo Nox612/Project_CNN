@@ -12,16 +12,3 @@ And functions such as:
 Softmax 
 ReLu the activation function that let pass only possitive values.
 
-Step 2:
-
-
-Step 3:
-
-
-Step 4:
-
-
-Step 5:
-
-
-Step 6:
